@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PRIVACY POLICY
+title: PRIVACY POLICY for Nations and Leaders
 description: Privacy policy for Nations and Leaders, a mobile game for Android devices
 ---
 
@@ -10,56 +10,71 @@ This Privacy Policy describes how Haringey Mobile ("we," "us," or "our") collect
 
 By using the App, you consent to the collection, use, and sharing of your information as described in this Privacy Policy.
 
+
 #### 1. INFORMATION WE COLLECT
 
 We may collect the following types of information when you use the App:
 
-a. Non-Personal Information: This includes aggregated and anonymized data that does not directly identify you. This may include:
+1. ***Non-Personal Information:*** This includes aggregated and anonymized data that does not directly identify you. This may include:
 - Device information (e.g., device model, operating system, unique device identifiers).
 - App usage data (e.g., how often and for how long you use the App, features you use, screens you view).
 - Performance data (e.g., app crashes, errors).
 
-b. Information Collected by Third-Party Services: The App utilizes the following third-party services, which may collect information about you:
+2. ***Information Collected by Third-Party Services:*** The App utilizes the following third-party services, which may collect information about you:
 
-- Google AdMob:
-AdMob may collect and use information about your device and your interests to serve you relevant advertisements. This information may include your device's advertising ID, IP address, and information about the apps you use. Google's use of this information is governed by their own Privacy Policy, which you can review here: https://policies.google.com/privacy?hl=en-US.
+- **Google AdMob:**  
+AdMob may collect and use information about your device and your interests to serve you relevant advertisements. This information may include your device's advertising ID, IP address, and information about the apps you use.
 
-**Google Firebase:** The App may use various Firebase services, including but not limited to:
-         * **Firebase Analytics:** Collects usage data, including events, user properties, and crash reports, to help us understand how the App is being used and to improve it. This data is often anonymized and aggregated. You can learn more about Firebase Analytics and Google's data practices here: [Insert Link to Google Firebase Privacy Policy - You need to find the latest official link].
-         * **Firebase Authentication:** If the App has user accounts, Firebase Authentication may collect your email address, phone number, and other profile information you provide during registration and login. This information is used to manage your account.
-         * **Cloud Functions:** Depending on the features of the App, other Firebase services might be used, and their specific data collection practices will be governed by Google's Firebase Privacy Policy.
+- **Google Firebase:**  
+The App may use various Firebase services, including but not limited to:
 
-**Google Play Billing (for In-App Purchases):** When you make in-app purchases, Google Play Billing processes your payment information. We do not directly collect or store your payment details. The information collected during the purchase process is governed by the Google Play Store Terms of Service and Privacy Policy: [Insert Link to Google Play Store Privacy Policy - You need to find the latest official link]. We may receive non-personally identifiable information about your purchases, such as the types of items purchased and the date of purchase.
+1. **Firebase Analytics:**  
+Collects usage data, including events, user properties, and crash reports, to help us understand how the App is being used and to improve it. This data is often anonymized and aggregated.
+
+2. **Firebase Authentication:**  
+You may choose to create a user account to play multiplayer games and save games in the cloud. In such case, Firebase Authentication may collect your email address and other profile information you provide during registration and login. This information is used to manage your account.
+
+3. **Cloud Functions:** Cloud functions are used to manage player game data in the cloud, including game states, player statistics, friends, achievements, and leaderboards.
+
+4. **Privacy and Security in Firebase** Firebase's key security and privacy information are outlined here:  
+(firebase.google.com/support/privacy)[https://firebase.google.com/support/privacy]
+
+- **Google Play Billing (for In-App Purchases):**  
+When you make in-app purchases, Google Play Billing processes your payment information. We do not directly collect or store your payment details. The information collected during the purchase process is governed by the Google Play Store Terms of Service and Privacy Policy: [Insert Link to Google Play Store Privacy Policy - You need to find the latest official link]. We may receive non-personally identifiable information about your purchases, such as the types of items purchased and the date of purchase.
+
+- **Google privacy and terms**  
+You can learn more about Google's privacy and data practices here:  
+(policies.google.com/privacy?hl=en-US)[https://policies.google.com/privacy?hl=en-US].
 
 #### 2. HOW WE USE YOUR INFORMATION
 
 We may use the collected information for the following purposes:
 
-   a. **To Provide and Improve the App:** To operate the App, provide you with its features, and improve its functionality and user experience.
-   b. **To Display Advertisements:** To show you advertisements through Google AdMob. These advertisements may be personalized based on your interests and usage patterns, as determined by AdMob.
-   c. **For Analytics Purposes:** To analyze how the App is used, identify trends, and gather statistical information to help us understand user behavior and optimize the App.
-   d. **To Manage User Accounts (if applicable):** If the App has user accounts, we may use your information to create and manage your account, authenticate your access, and provide user support.
-   e. **To Process In-App Purchases:** To facilitate and manage your in-app purchases through Google Play Billing.
-   f. **To Communicate with You:** We may use your email address (if provided) to respond to your inquiries, provide updates about the App, or send you important notices.
-   g. **To Detect and Prevent Fraud and Abuse:** To identify and prevent fraudulent activities or misuse of the App.
-   h. **To Comply with Legal Obligations:** To comply with applicable laws, regulations, and legal processes.
+- **To Provide and Improve the App:** To operate the App, provide you with its features, and improve its functionality and user experience.
+ - **To Display Advertisements:** To show you advertisements through Google AdMob. These advertisements may be personalized based on your interests and usage patterns, as determined by AdMob.
+- **For Analytics Purposes:** To analyze how the App is used, identify trends, and gather statistical information to help us understand user behavior and optimize the App.
+- **To Manage User Accounts:** The App has optional user accounts, and we may use your information to create and manage your account, authenticate your access, and provide user support.
+- **To Process In-App Purchases:** To facilitate and manage your in-app purchases through Google Play Billing.
+- **To Detect and Prevent Fraud and Abuse:** To identify and prevent fraudulent activities or misuse of the App.
+- **To Comply with Legal Obligations:** To comply with applicable laws, regulations, and legal processes.
 
 #### 3. SHARING OF YOUR INFORMATION
 
 We may share your information with the following third parties:
 
-   a. **Google:** We share information with Google as described in Section 1(b) for the purposes of providing advertising (AdMob), analytics, user authentication, and other Firebase services.
-   b. **Service Providers:** We may engage third-party service providers to perform services on our behalf, such as data analysis, email delivery, and customer support. These providers will have access to your information only to the extent necessary to perform their services and are obligated to maintain its confidentiality.
-   c. **Business Transfers:** In the event of a merger, acquisition, or sale of all or a portion of our assets, your information may be transferred as part of the transaction. We will notify you via email and/or a prominent notice in the App of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
-   d. **Legal Requirements:** We may disclose your information if required to do so by law or in response to a valid legal request, such as a court order or subpoena.
-   e. **Protection of Rights:** We may disclose your information when we believe it is necessary to protect our rights, property, or safety, or the rights, property, or safety of others.
+- **Google:** We share information with Google as described in Section 2 for the purposes of providing advertising (AdMob), analytics, user authentication, and other Firebase services.
+- **Service Providers:** We may engage third-party service providers to perform services on our behalf, such as data analysis, email delivery, and customer support. These providers will have access to your information only to the extent necessary to perform their services and are obligated to maintain its confidentiality.
+- **Business Transfers:** In the event of a merger, acquisition, or sale of all or a portion of our assets, your information may be transferred as part of the transaction. We will notify you via email and/or a prominent notice in the App of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+- **Legal Requirements:** We may disclose your information if required to do so by law or in response to a valid legal request, such as a court order or subpoena.
+- **Protection of Rights:** We may disclose your information when we believe it is necessary to protect our rights, property, or safety, or the rights, property, or safety of others.
 
 #### 4. YOUR CHOICES AND RIGHTS
 
-   a. **Opt-out of Personalized Ads:** You can control the use of your advertising ID for interest-based advertising by accessing the settings of your Android device. Please refer to your device's documentation for more information. You can also learn more about your choices regarding Google's advertising practices by visiting Google's Ad Settings: [Insert Link to Google Ad Settings].
-   b. **Firebase Analytics:** You may be able to opt-out of certain Firebase Analytics features through your device settings or within the App, depending on how we have implemented it. Please check the App's settings or contact us for more information.
-   c. **Access, Correction, and Deletion (if applicable):** If the App collects personally identifiable information directly from you (e.g., through account registration), you may have the right to access, correct, or request the deletion of your information. Please contact us using the contact information provided below to exercise these rights. Please note that we may need to verify your identity before fulfilling your request.
-   d. **In-App Purchase Information:** We do not directly store your payment information for in-app purchases. For any issues or inquiries related to payments, refunds, or cancellations, please refer to the Google Play Store's support resources.
+- **Opt-out of Personalized Ads:** You can control the use of your advertising ID for interest-based advertising by accessing the settings of your Android device. Please refer to your device's documentation for more information. You can also learn more about your choices regarding Google's advertising practices by visiting Google's Ad Settings:  
+(myadcenter.google.com/home?sasb=true&ref=ad-settings)[https://myadcenter.google.com/home?sasb=true&ref=ad-settings].
+- **Firebase Analytics:** You may be able to opt-out of certain Firebase Analytics features through your device settings or within the App, depending on how we have implemented it. Please check the App's settings or contact us for more information.
+- **Access, Correction, and Deletion (if applicable):** If the App collects personally identifiable information directly from you (e.g., through account registration), you may have the right to access, correct, or request the deletion of your information. Please contact us using the contact information provided below to exercise these rights. Please note that we may need to verify your identity before fulfilling your request.
+- **In-App Purchase Information:** We do not directly store your payment information for in-app purchases. For any issues or inquiries related to payments, refunds, or cancellations, please refer to the Google Play Store's support resources.
 
 #### 5. DATA RETENTION
 
