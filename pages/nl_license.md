@@ -8,9 +8,9 @@ Effective Date: April 27, 2025
 
 This Privacy Policy describes how Haringey Mobile ("we," "us," or "our") collects, uses, and shares information about you when you use our Android application, Nations and Leaders (the "App").
 
-By using the App, you consent to the collection, use, and sharing of your information as described in this Privacy Policy.
-
-
+By using the App, you consent to the collection, use, and sharing of your information as described in this Privacy Policy.  
+  
+  
 #### 1. INFORMATION WE COLLECT
 
 We may collect the following types of information when you use the App:
@@ -39,7 +39,9 @@ We may collect the following types of information when you use the App:
       [firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
 
    - **Google Play Billing (for In-App Purchases):**  
-   When you make in-app purchases, Google Play Billing processes your payment information. We do not directly collect or store your payment details. The information collected during the purchase process is governed by the Google Play Store Terms of Service and Privacy Policy: [Insert Link to Google Play Store Privacy Policy - You need to find the latest official link]. We may receive non-personally identifiable information about your purchases, such as the types of items purchased and the date of purchase.
+   When you make in-app purchases, Google Play Billing processes your payment information. We do not directly collect or store your payment details. The information collected during the purchase process is governed by the Google Play Store Terms of Service and Privacy Policy:  
+   [play.google.com/about/play-terms](https://play.google.com/about/play-terms/).  
+   We may receive non-personally identifiable information about your purchases, such as the types of items purchased and the date of purchase.
 
    - **Google privacy and terms**  
    You can learn more about Google's privacy and data practices here:  
@@ -61,7 +63,7 @@ We may use the collected information for the following purposes:
 
 We may share your information with the following third parties:
 
-- **Google:** We share information with Google as described in Section 2 for the purposes of providing advertising (AdMob), analytics, user authentication, and other Firebase services.
+- **Google:** We share information with Google as described in Section 1.2 for the purposes of providing advertising (AdMob), analytics, user authentication, and other Firebase services.
 - **Service Providers:** We may engage third-party service providers to perform services on our behalf, such as data analysis, email delivery, and customer support. These providers will have access to your information only to the extent necessary to perform their services and are obligated to maintain its confidentiality.
 - **Business Transfers:** In the event of a merger, acquisition, or sale of all or a portion of our assets, your information may be transferred as part of the transaction. We will notify you via email and/or a prominent notice in the App of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 - **Legal Requirements:** We may disclose your information if required to do so by law or in response to a valid legal request, such as a court order or subpoena.
