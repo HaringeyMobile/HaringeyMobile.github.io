@@ -20,7 +20,7 @@ We may collect the following types of information when you use the App:
 - App usage data (e.g., how often and for how long you use the App, features you use, screens you view).
 - Performance data (e.g., app crashes, errors).
 
-<br /><br />
+&nbsp;&nbsp;
 
 2. **Information Collected by Third-Party Services:** The App utilizes the following third-party services, which may collect information about you:
 
