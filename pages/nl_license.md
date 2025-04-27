@@ -18,9 +18,7 @@ We may collect the following types of information when you use the App:
 1. **Non-Personal Information:** This includes aggregated and anonymized data that does not directly identify you. This may include:
 - Device information (e.g., device model, operating system, unique device identifiers).
 - App usage data (e.g., how often and for how long you use the App, features you use, screens you view).
-- Performance data (e.g., app crashes, errors).
-
-&nbsp;&nbsp;
+- Performance data (e.g., app crashes, errors).  
 
 2. **Information Collected by Third-Party Services:** The App utilizes the following third-party services, which may collect information about you:
 
