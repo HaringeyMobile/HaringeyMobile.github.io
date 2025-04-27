@@ -14,22 +14,22 @@ By using the App, you consent to the collection, use, and sharing of your inform
 
 We may collect the following types of information when you use the App:
 
-   a. Non-Personal Information: This includes aggregated and anonymized data that does not directly identify you. This may include:
-       Device information (e.g., device model, operating system, unique device identifiers).
-       App usage data (e.g., how often and for how long you use the App, features you use, screens you view).
-       Performance data (e.g., app crashes, errors).
+a. Non-Personal Information: This includes aggregated and anonymized data that does not directly identify you. This may include:
+- Device information (e.g., device model, operating system, unique device identifiers).
+- App usage data (e.g., how often and for how long you use the App, features you use, screens you view).
+- Performance data (e.g., app crashes, errors).
 
-   b. Information Collected by Third-Party Services: The App utilizes the following third-party services, which may collect information about you:
+b. Information Collected by Third-Party Services: The App utilizes the following third-party services, which may collect information about you:
 
-       #### Google AdMob:
-        AdMob may collect and use information about your device and your interests to serve you relevant advertisements. This information may include your device's advertising ID, IP address, and information about the apps you use. Google's use of this information is governed by their own Privacy Policy, which you can review here: https://policies.google.com/privacy?hl=en-US.
+- Google AdMob:
+AdMob may collect and use information about your device and your interests to serve you relevant advertisements. This information may include your device's advertising ID, IP address, and information about the apps you use. Google's use of this information is governed by their own Privacy Policy, which you can review here: https://policies.google.com/privacy?hl=en-US.
 
-      * **Google Firebase:** The App may use various Firebase services, including but not limited to:
+**Google Firebase:** The App may use various Firebase services, including but not limited to:
          * **Firebase Analytics:** Collects usage data, including events, user properties, and crash reports, to help us understand how the App is being used and to improve it. This data is often anonymized and aggregated. You can learn more about Firebase Analytics and Google's data practices here: [Insert Link to Google Firebase Privacy Policy - You need to find the latest official link].
          * **Firebase Authentication:** If the App has user accounts, Firebase Authentication may collect your email address, phone number, and other profile information you provide during registration and login. This information is used to manage your account.
          * **Cloud Functions:** Depending on the features of the App, other Firebase services might be used, and their specific data collection practices will be governed by Google's Firebase Privacy Policy.
 
-      * **Google Play Billing (for In-App Purchases):** When you make in-app purchases, Google Play Billing processes your payment information. We do not directly collect or store your payment details. The information collected during the purchase process is governed by the Google Play Store Terms of Service and Privacy Policy: [Insert Link to Google Play Store Privacy Policy - You need to find the latest official link]. We may receive non-personally identifiable information about your purchases, such as the types of items purchased and the date of purchase.
+**Google Play Billing (for In-App Purchases):** When you make in-app purchases, Google Play Billing processes your payment information. We do not directly collect or store your payment details. The information collected during the purchase process is governed by the Google Play Store Terms of Service and Privacy Policy: [Insert Link to Google Play Store Privacy Policy - You need to find the latest official link]. We may receive non-personally identifiable information about your purchases, such as the types of items purchased and the date of purchase.
 
 #### 2. HOW WE USE YOUR INFORMATION
 
@@ -84,16 +84,3 @@ If you have any questions or concerns about this Privacy Policy or our data prac
 Haringey Mobile
 email: haringeymobile@gmail.com
 [haringeymobile.github.io](https://haringeymobile.github.io)
-
-
----
-
-
-* **[Insert Link to Google AdMob Privacy Policy]:** Find the most up-to-date official link to Google AdMob's Privacy Policy and insert it here.
-* **[Insert Link to Google Firebase Privacy Policy]:** Find the most up-to-date official link to Google Firebase's Privacy Policy and insert it here.
-* **[Insert Link to Google Play Store Privacy Policy]:** Find the most up-to-date official link to the Google Play Store's Privacy Policy and insert it here.
-* **Children's Privacy (Section 7):** This section is crucial. If your app targets children under 13, you MUST have specific clauses compliant with COPPA and consult with legal counsel.
-* **Specific Firebase Services:** If your app uses specific Firebase services beyond Analytics and Authentication (e.g., Cloud Firestore, Realtime Database, Cloud Functions), you should mention them and briefly explain what data they might collect.
-* **Data Security Measures:** While you don't need to disclose specific security measures, you should assure users that you take reasonable steps to protect their data.
-* **User Rights:** Depending on the jurisdiction of your users (e.g., if you have users in the European Union), you might need to include more detailed information about their rights under GDPR (General Data Protection Regulation), such as the right to erasure, restriction of processing, and data portability.
-* **Legal Advice:** This is a sample privacy policy and should not be considered legal advice. It is highly recommended to consult with an attorney to ensure that this policy adequately protects your users' privacy and complies with all applicable laws and regulations. They can help tailor it to your specific app, target audience, and jurisdictions.
