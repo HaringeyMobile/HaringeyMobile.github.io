@@ -10,7 +10,7 @@ This Privacy Policy describes how Haringey Mobile ("we," "us," or "our") collect
 
 By using the App, you consent to the collection, use, and sharing of your information as described in this Privacy Policy.  
   
-  
+
 #### 1. INFORMATION WE COLLECT
 
 We may collect the following types of information when you use the App:
@@ -20,6 +20,7 @@ We may collect the following types of information when you use the App:
 - App usage data (e.g., how often and for how long you use the App, features you use, screens you view).
 - Performance data (e.g., app crashes, errors).
 
+<br /><br />
 
 2. **Information Collected by Third-Party Services:** The App utilizes the following third-party services, which may collect information about you:
 
@@ -35,7 +36,7 @@ We may collect the following types of information when you use the App:
 
       3. ***Cloud Functions:*** Cloud functions are used to manage player game data in the cloud, including game states, player statistics, friends, achievements, and leaderboards.
 
-      4. ***Privacy and Security in Firebase*** Firebase's key security and privacy information are outlined here:  
+      4. ***Privacy and Security in Firebase:*** Firebase's key security and privacy information are outlined here:  
       [firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
 
    - **Google Play Billing (for In-App Purchases):**  
@@ -43,7 +44,7 @@ We may collect the following types of information when you use the App:
    [play.google.com/about/play-terms](https://play.google.com/about/play-terms/).  
    We may receive non-personally identifiable information about your purchases, such as the types of items purchased and the date of purchase.
 
-   - **Google privacy and terms**  
+   - **Google privacy and terms:**  
    You can learn more about Google's privacy and data practices here:  
    [policies.google.com/privacy](https://policies.google.com/privacy?hl=en-US).
 
@@ -91,7 +92,7 @@ The App is not intended for children under the age of 13. We do not knowingly co
 
 #### 8. CHANGES TO THIS PRIVACY POLICY
 
-We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the new Privacy Policy on this website, as well as within the App (in the "About" section). Your continued use of the App after the effective date of the revised Privacy Policy constitutes your acceptance of the changes. We encourage you to review this Privacy Policy periodically for any updates.
+We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the new Privacy Policy on this website. The link to this policy is always available within the App (in the "About" section). Your continued use of the App after the effective date of the revised Privacy Policy constitutes your acceptance of the changes. We encourage you to review this Privacy Policy periodically for any updates.
 
 #### 9. CONTACT US
 
