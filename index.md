@@ -10,6 +10,6 @@ description: Strategy games and educational apps for mobile platforms
 
 [Google Play](https://play.google.com/store/apps/details?id=com.haringeymobile.ukweather)
 
-[License](/pages/nl_license.md)
+[License](pages/nl_license.html)
 
 ![App icon](/assets/images/nl_icon_with_text_scaled.png)
