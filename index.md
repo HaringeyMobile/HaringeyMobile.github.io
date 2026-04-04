@@ -1,15 +1,34 @@
 ---
 layout: page
 title: Haringey Mobile
-tagline: Mobile games and apps
-description: Strategy games and educational apps for mobile platforms
+description: Educational and strategy games
 ---
 
-### Nations and Leaders
-##### A 4x strategy game in historic setting
+## Our Apps
 
-[Google Play](https://play.google.com/store/apps/details?id=com.haringeymobile.ukweather)
-
-[Privacy Policy](pages/nl_privacy_policy.html)
-
-![App icon](/assets/images/nl_icon_with_text_scaled.png)
+<div class="apps-grid">
+{% for app in site.data.apps %}
+  <article class="app-card">
+    <div class="app-header">
+      <img src="{{ app.icon | relative_url }}" alt="{{ app.name }} icon" />
+      <h3 class="app-title">{{ app.name }}</h3>
+      <p class="app-description">{{ app.description }}</p>
+    </div>
+    
+    <div class="app-links">
+      <a href="{{ app.play_store }}" target="_blank" rel="noopener">Get on Google Play</a>
+      <a href="{{ app.license | relative_url }}">Privacy Policy</a>
+      <a href="{{ app.terms | relative_url }}">Terms of Service</a>
+      {% if app.deletion %}
+        <a href="{{ app.deletion | relative_url }}">
+          {% if app.suite == "Math Practice" %}
+            Delete Math Practice Account
+          {% else %}
+            Delete Account
+          {% endif %}
+        </a>
+      {% endif %}
+    </div>
+  </article>
+{% endfor %}
+</div>
