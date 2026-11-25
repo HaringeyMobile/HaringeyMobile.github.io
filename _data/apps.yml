@@ -1,64 +1,87 @@
+- id: math-practice
+  name: Math Practice
+  category: main
+  description: "An all-in-one educational math app with interactive lessons and practice across topics including Fractions, Percentages, Negative Numbers, and more."
+  icon: "/assets/images/math-practice-placeholder.svg"
+  play_store: "https://play.google.com/store/apps/details?id=com.haringeymobile.mathpractice"
+  license: "/math-practice/privacy"
+  terms: "/math-practice/terms"
+  deletion: "/delete-account"
+  platform: "android"
+
+- id: world-weather
+  name: World Weather
+  category: main
+  description: "An open-source weather app displaying current conditions and forecasts worldwide."
+  icon: "/assets/images/world-weather-placeholder.svg"
+  play_store: "https://play.google.com/store/apps/details?id=com.haringeymobile.ukweather"
+  fdroid: "https://f-droid.org/packages/com.haringeymobile.ukweather/"
+  source: "https://github.com/HaringeyMobile/World-Weather"
+  license: "https://github.com/HaringeyMobile/World-Weather/blob/master/PRIVACY_POLICY.md"
+  platform: "android"
+
 - id: nations-and-leaders
   name: Nations and Leaders
+  category: main
   description: A 4x strategy game in a historic setting.
   icon: "/assets/images/NL.png"
   play_store: "https://play.google.com/store/apps/details?id=com.haringeymobile.nationsandleaders"
-  license: "/nations-and-leaders/privacy/"
-  terms: "/nations-and-leaders/terms/"
+  license: "/nations-and-leaders/privacy"
+  terms: "/nations-and-leaders/terms"
   deletion: "https://forms.gle/1YP8zKJ6sV38AJRD9"
   platform: "android"
 
 - id: fraction-practice
   name: Fraction Practice
-  suite: "Math Practice"
+  category: legacy
   description: An educational app for practicing fraction calculations and concepts.
   icon: "/assets/images/Fractions.png"
   play_store: "https://play.google.com/store/apps/details?id=com.haringeymobile.mathpracticefractions"
-  license: "/fraction-practice/privacy/"
-  terms: "/fraction-practice/terms/"
-  deletion: "/delete-account/"
+  license: "/fraction-practice/privacy"
+  terms: "/fraction-practice/terms"
+  deletion: "/delete-account"
   platform: "android"
 
 - id: percentages-practice
   name: Percentages Practice
-  suite: "Math Practice"
+  category: legacy
   description: An educational app for practicing percentage calculations and applications.
   icon: "/assets/images/Percentages.png"
   play_store: "https://play.google.com/store/apps/details?id=com.haringeymobile.mathpracticepercentages"
-  license: "/percentages-practice/privacy/"
-  terms: "/percentages-practice/terms/"
-  deletion: "/delete-account/"
+  license: "/percentages-practice/privacy"
+  terms: "/percentages-practice/terms"
+  deletion: "/delete-account"
   platform: "android"
 
 - id: arithmetic-practice
   name: Arithmetic Practice
-  suite: "Math Practice"
+  category: legacy
   description: An educational app for practicing basic arithmetic operations.
   icon: "/assets/images/Arithmetic.png"
   play_store: "https://play.google.com/store/apps/details?id=com.haringeymobile.arithmeticpractice"
-  license: "/arithmetic-practice/privacy/"
-  terms: "/arithmetic-practice/terms/"
-  deletion: "/delete-account/"
+  license: "/arithmetic-practice/privacy"
+  terms: "/arithmetic-practice/terms"
+  deletion: "/delete-account"
   platform: "android"
 
 - id: negative-numbers
   name: Negative Numbers Practice
-  suite: "Math Practice"
+  category: legacy
   description: An educational app for practicing operations with negative numbers.
   icon: "/assets/images/Negatives.png"
   play_store: "https://play.google.com/store/apps/details?id=com.haringeymobile.mathpracticenegativenumbers"
-  license: "/negative-numbers/privacy/"
-  terms: "/negative-numbers/terms/"
-  deletion: "/delete-account/"
+  license: "/negative-numbers/privacy"
+  terms: "/negative-numbers/terms"
+  deletion: "/delete-account"
   platform: "android"
 
 - id: primes-divisibility
   name: Primes and Divisibility
-  suite: "Math Practice"
+  category: legacy
   description: An educational app for practicing prime numbers and divisibility rules.
   icon: "/assets/images/Primes.png"
   play_store: "https://play.google.com/store/apps/details?id=com.haringeymobile.primesanddivisibility"
-  license: "/primes-divisibility/privacy/"
-  terms: "/primes-divisibility/terms/"
-  deletion: "/delete-account/"
+  license: "/primes-divisibility/privacy"
+  terms: "/primes-divisibility/terms"
+  deletion: "/delete-account"
   platform: "android"

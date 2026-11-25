@@ -1,21 +1,18 @@
 ---
 layout: page
 title: "Account Deletion - Math Practice"
-permalink: /delete-account/
+permalink: /delete-account
 ---
 
 # Math Practice: Account Deletion
 
-Because our apps use a **unified account system**, requesting deletion will permanently remove your profile and data across the entire **Math Practice** suite. 
+This deletion process covers the all-in-one **Math Practice** app and the legacy standalone Math Practice apps: **Arithmetic**, **Fractions**, **Percentages**, **Negative Numbers**, and **Primes & Divisibility**.
 
-This includes: **Arithmetic**, **Fractions**, **Percentages**, **Negative Numbers**, and **Primes & Divisibility**.
-
-### How to Proceed:
-Please complete our [**Math Practice Deletion Request Form**](https://forms.gle/C2f8ZcCP3Dth7TCW7).
+You can delete an account directly inside the Math Practice app under **Privacy & Data → Delete Account**. If you need to submit a deletion request instead, please complete the [**Math Practice Deletion Request Form**](https://docs.google.com/forms/d/e/1FAIpQLSfDzTGiyJhzFe2SngdNcf9yWwsZMD58sEzCLN4nQnbSrcBG-g/viewform).
 
 **What happens next?**
-* Your Firebase Authentication profile will be permanently deleted.
-* Any identity data associated with your email in our system will be removed.
-* This will **not** affect your local device progress or your native Google Play Games/Game Center achievements.
+* Your Firebase Authentication profile and associated account data will be permanently deleted.
+* Synced account progress and linked purchase entitlements may be removed.
+* This process does **not** automatically affect local device progress or separately managed achievements in Google Play Games or Apple Game Center.
 
-*Note: Deleting your account does not automatically refund in-app purchases. Please contact your respective app store (Google Play or Apple App Store) for any refund or billing inquiries.*
+*Note: Deleting your account does not automatically refund in-app purchases. Contact Google Play or Apple App Store for billing or refund inquiries.*

@@ -2,7 +2,7 @@
 layout: page
 title: "Privacy Policy - Nations and Leaders"
 description: "Privacy policy for Nations and Leaders, a mobile game for Android devices."
-permalink: /nations-and-leaders/privacy/
+permalink: /nations-and-leaders/privacy
 ---
 
 # Privacy Policy
@@ -57,7 +57,7 @@ We do not sell your personal data. We share data only with:
 You can reset your Advertising ID or opt-out of personalized ads in your **Android System Settings > Google > Ads**.
 
 ### 4.2 Account Deletion
-You have the right to request the deletion of your account and associated data. You can do this within the app or via our web-based **[Nations and Leaders Deletion Request Form](https://forms.gle/1YP8zKJ6sV38AJRD9)**.
+You have the right to request the deletion of your account and associated data. You can do this within the app or via our web-based **[Nations and Leaders Deletion Request Form](/delete-account)**.
 
 ### 4.3 GDPR (European Users)
 If you are in the EU, you have the right to access, rectify, or erase your personal data. Haringey Mobile is the data controller for any information collected directly through the App.

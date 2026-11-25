@@ -2,7 +2,7 @@
 layout: page
 title: "Terms of Service - Nations and Leaders"
 description: "Terms of Service for Nations and Leaders, an Android strategy game."
-permalink: /nations-and-leaders/terms/
+permalink: /nations-and-leaders/terms
 ---
 
 # Terms of Service
@@ -12,7 +12,7 @@ permalink: /nations-and-leaders/terms/
 By downloading or using **Nations and Leaders**, these terms automatically apply to you. Please read them carefully before using the app.
 
 ## 1. Privacy Policy
-Your use of the app is also governed by our Privacy Policy, which explains how we handle your data. Please review it at [Privacy Policy](/nations-and-leaders/privacy/).
+Your use of the app is also governed by our Privacy Policy, which explains how we handle your data. Please review it at [Privacy Policy](/nations-and-leaders/privacy).
 
 ## 2. Intellectual Property
 The app, including all trademarks, copyright, database rights, and other intellectual property, belongs to **Haringey Mobile**. You may not copy, modify, or attempt to extract the source code of the app.

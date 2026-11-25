@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Terms of Service - Primes and Divisibility"
-permalink: /primes-divisibility/terms/
+permalink: /primes-divisibility/terms
 ---
 
 # Terms of Service
@@ -11,7 +11,7 @@ permalink: /primes-divisibility/terms/
 By downloading or using **Primes and Divisibility**, these terms will automatically apply to you — please read them carefully before using the app.
 
 ## 1. Privacy Policy
-Your use of the app is also governed by our Privacy Policy, which explains how we collect, use, and protect your data. Please review it at [Privacy Policy](/primes-divisibility/privacy/).
+Your use of the app is also governed by our Privacy Policy, which explains how we collect, use, and protect your data. Please review it at [Privacy Policy](/primes-divisibility/privacy).
 
 ## 2. Age Requirements
 This app is intended for users of all ages. However, if you are under the age of majority in your jurisdiction, you must have a parent or legal guardian review and agree to these Terms on your behalf.

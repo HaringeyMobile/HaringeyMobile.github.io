@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Privacy Policy - Negative Numbers"
-permalink: /negative-numbers/privacy/
+permalink: /negative-numbers/privacy
 ---
 
 # Privacy Policy
@@ -47,7 +47,7 @@ We do not sell your personal data. Data is shared only with:
 * **Accounts** are intended for parents or adult users. If you are under the age of majority, please have a guardian manage your account and purchases on your behalf.
 
 ## 5. Your Rights and Choices
-* **Account Deletion:** You have the right to delete your account at any time. Because our math apps share a unified system, deleting your account will remove your profile across the entire **Math Practice** suite. You can request deletion via our [**Account Deletion Page**](/delete-account/).
+* **Account Deletion:** You have the right to delete your account at any time. Because our math apps share a unified system, deleting your account will remove your profile across the entire **Math Practice** suite. You can request deletion via our [**Account Deletion Page**](/delete-account).
 * **Ad Settings:** You can reset your Advertising ID in your device's system settings to limit ad personalization.
 * **Purchases:** Subscription and refund management must be handled through your respective app store (Apple or Google).
 

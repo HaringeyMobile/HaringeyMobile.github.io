@@ -12,15 +12,18 @@
     <header class="site-header">
       <div class="site-brand">
         {% if site.logo %}
-          <img class="site-logo" src="{{ site.logo | relative_url }}" alt="{{ site.title }}" />
+          <a class="site-logo-link" href="/" aria-label="Haringey Mobile homepage"><img class="site-logo" src="{{ site.logo | relative_url }}" alt="{{ site.title }}" /></a>
         {% endif %}
         <div>
-          <h1>{{ site.title }}</h1>
+          <h1><a class="site-title-link" href="/">{{ site.title }}</a></h1>
           <p>{{ site.description }}</p>
         </div>
       </div>
     </header>
     <main class="content">
+      {% unless page.url == '/' or page.url == '' %}
+        <nav class="back-navigation" aria-label="Breadcrumb"><a href="/">← Back to Home</a></nav>
+      {% endunless %}
       {{ content }}
     </main>
     <footer class="site-footer">
