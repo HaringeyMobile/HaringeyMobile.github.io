@@ -45,7 +45,7 @@ description: Educational and strategy games
         <a href="{{ app.play_store }}" target="_blank" rel="noopener">Get on Google Play</a>
         <a href="{{ app.license | relative_url }}">Privacy Policy</a>
         <a href="{{ app.terms | relative_url }}">Terms of Service</a>
-        <a href="{{ app.deletion | relative_url }}">Delete Account</a>
+        <a href="{{ app.deletion | relative_url }}">Delete Legacy Account</a>
       </div>
     </article>
   {% endif %}

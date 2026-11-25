@@ -1,14 +1,14 @@
 ---
 layout: page
-title: "Account Deletion - Math Practice"
+title: "Legacy Math Practice Suite: Account Deletion"
 permalink: /delete-account
 ---
 
-# Math Practice: Account Deletion
+# Legacy Math Practice Suite: Account Deletion
 
-This deletion process covers the all-in-one **Math Practice** app and the legacy standalone Math Practice apps: **Arithmetic**, **Fractions**, **Percentages**, **Negative Numbers**, and **Primes & Divisibility**.
+This deletion process applies only to accounts used by the five legacy standalone apps: **Arithmetic**, **Fractions**, **Percentages**, **Negative Numbers**, and **Primes & Divisibility**. It does not apply to the newer all-in-one **Math Practice** app.
 
-You can delete an account directly inside the Math Practice app under **Privacy & Data → Delete Account**. If you need to submit a deletion request instead, please complete the [**Math Practice Deletion Request Form**](https://docs.google.com/forms/d/e/1FAIpQLSfDzTGiyJhzFe2SngdNcf9yWwsZMD58sEzCLN4nQnbSrcBG-g/viewform).
+To request deletion of a legacy account, please complete the [**Legacy Math Practice Deletion Request Form**](https://docs.google.com/forms/d/e/1FAIpQLSfDzTGiyJhzFe2SngdNcf9yWwsZMD58sEzCLN4nQnbSrcBG-g/viewform).
 
 **What happens next?**
 * Your Firebase Authentication profile and associated account data will be permanently deleted.

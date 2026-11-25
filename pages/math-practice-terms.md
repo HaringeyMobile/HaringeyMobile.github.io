@@ -33,7 +33,7 @@ Math Practice offers optional in-app purchases for individual features or math t
 You agree not to use the App for unlawful purposes or in any way that could damage, disable, overburden, or interfere with the App or its services.
 
 ## 6. Account Termination
-You may delete your account from **Privacy & Data → Delete Account** inside the App or through the [Account Deletion page](https://haringeymobile.github.io/delete-account). We may suspend or terminate access for conduct that violates these Terms or threatens the security or operation of the App.
+You may delete your account from **Menu → Privacy & Data → Delete Account** inside the App or through the [Account Deletion page](/math-practice/delete-account). We may suspend or terminate access for conduct that violates these Terms or threatens the security or operation of the App.
 
 ## 7. Limitation of Liability
 The App is provided "AS IS" and "AS AVAILABLE." Haringey Mobile is not responsible for temporary interruptions, loss of access, or loss resulting from lack of internet connectivity or circumstances outside our reasonable control. To the extent permitted by law, we are not liable for indirect or consequential loss arising from use of the App.

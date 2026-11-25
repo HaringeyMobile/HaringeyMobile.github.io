@@ -46,7 +46,7 @@ We do not sell your personal data. Data is shared only with:
 Math Practice is an educational app for users of all ages. It uses a neutral age gate and does not knowingly personalize ads for child-directed users. If you are under the age of majority in your jurisdiction, please have a parent or legal guardian review this policy and manage account and purchase settings on your behalf.
 
 ## 5. Your Rights and Choices
-* **Account Deletion:** You may delete your account directly inside the app under **Privacy & Data → Delete Account**. You may also request deletion through our [Account Deletion page](https://haringeymobile.github.io/delete-account).
+* **Account Deletion:** You may delete your account directly inside the app under **Menu → Privacy & Data → Delete Account**. You may also request deletion through our [Account Deletion page](/math-practice/delete-account).
 * **Advertising Choices:** Reset or limit your Advertising ID in your device settings and review consent choices presented by UMP where applicable.
 * **Analytics:** Device and app settings may provide controls over analytics and advertising identifiers.
 * **Purchases:** Billing, refunds, and store accounts are managed by Google Play or Apple, as applicable.
