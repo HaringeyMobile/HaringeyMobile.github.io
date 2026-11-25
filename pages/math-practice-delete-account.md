@@ -8,7 +8,7 @@ permalink: /math-practice/delete-account
 
 This deletion process applies only to the newer all-in-one **Math Practice** app. It does not apply to the five legacy standalone apps.
 
-You can delete your account instantly inside the app: **Menu → Privacy & Data → Delete Account**. Alternatively, submit a web deletion request using the [**Math Practice Account Deletion Request Form**](https://docs.google.com/forms/d/1RQ7IGhhjCTen81oU0o95EB9sWbeYH_Gz3yO_TJbsf4Q/edit).
+You can delete your account instantly inside the app: **Menu → Privacy & Data → Delete Account**. Alternatively, submit a web deletion request using the [**Math Practice Account Deletion Request Form**](https://forms.gle/zjGsHw6C17XH8VwB8).
 
 **What happens when you delete your account?**
 * Your Firebase Authentication profile is permanently deleted, and the identity link used for cross-device purchase syncing is removed.
