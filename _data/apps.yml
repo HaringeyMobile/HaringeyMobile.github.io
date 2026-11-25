@@ -2,7 +2,7 @@
   name: Math Practice
   category: main
   description: "An all-in-one educational math app with interactive lessons and practice across topics including Fractions, Percentages, Negative Numbers, and more."
-  icon: "/assets/images/math-practice-placeholder.svg"
+  icon: "/assets/images/mp_consolidated_120.png"
   play_store: "https://play.google.com/store/apps/details?id=com.haringeymobile.mathpractice"
   license: "/math-practice/privacy"
   terms: "/math-practice/terms"
@@ -13,7 +13,7 @@
   name: World Weather
   category: main
   description: "An open-source weather app displaying current conditions and forecasts worldwide."
-  icon: "/assets/images/world-weather-placeholder.svg"
+  icon: "/assets/images/ww_120.png"
   play_store: "https://play.google.com/store/apps/details?id=com.haringeymobile.ukweather"
   fdroid: "https://f-droid.org/packages/com.haringeymobile.ukweather/"
   source: "https://github.com/HaringeyMobile/World-Weather"
