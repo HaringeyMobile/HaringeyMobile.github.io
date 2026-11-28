@@ -25,7 +25,7 @@ We collect anonymized data to improve the educational experience:
 The App uses the following services to support core functionality:
 
 * **Firebase Authentication:** Creating an account is optional. When you sign in, Firebase stores your account information and Firebase UID so that progress, entitlements, and other app features can be synchronized across devices and supported platforms.
-* **RevenueCat:** Manages per-feature, non-consumable in-app purchase entitlements, such as removing ads or unlocking future premium content for individual math topics. If you are signed in, RevenueCat may associate those entitlements with your Firebase UID to enable cross-device restoration.
+* **RevenueCat:** Manages in-app purchases such as ad removal and optional premium features. If you are signed in, RevenueCat may associate those entitlements with your Firebase UID to enable cross-device restoration.
 * **Google AdMob & Google User Messaging Platform (UMP):** Display ads and, where required, manage privacy, consent, and advertising choices. For child-directed users, identified through our neutral age gate, the App strictly serves contextual, non-personalized ads.
 * **Firebase Analytics & Crashlytics:** Provide anonymized usage analytics and crash diagnostics to help us improve app stability and educational features.
 * **Native Game Services:** Google Play Games Services, including optional Saved Games cloud sync for progress, and Apple Game Center for achievements and leaderboards, may collect or store activity according to Google and Apple's privacy policies.

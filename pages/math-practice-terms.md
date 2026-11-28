@@ -21,7 +21,7 @@ The App is intended for users of all ages. If you are under the age of majority 
 The App and related trademarks, copyright, database rights, and other intellectual property belong to Haringey Mobile. You may not copy, modify, reverse engineer, or attempt to extract the source code of the App.
 
 ## 4. Accounts and In-App Purchases
-Math Practice offers optional in-app purchases for individual features or math topics. These are **per-feature, non-consumable purchases**, such as removing ads for a topic or unlocking future premium content for an individual topic.
+Math Practice offers optional in-app purchases such as ad removal and optional premium features.
 
 * **Optional Account:** Signing in is optional. If you sign in with Firebase Authentication, RevenueCat may link the Firebase UID to your purchase entitlements so eligible purchases can be restored across supported devices and platforms.
 * **Cross-Platform Restoration:** Store purchases may be restored through an optional account when you use the same sign-in on a supported device or platform. Without signing in, purchases generally remain associated with the relevant app store account and may not transfer between operating systems.
